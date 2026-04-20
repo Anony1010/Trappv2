@@ -19,6 +19,6 @@
  */
 
 module.exports = {
-  token:  "8569121163:AAGSQTtI0uTlAu5UbV2iKR803SqBYCHiC-Q",
+  token:  "8660699921:AAFesbo698Uk4audRmi-4gEazUMpMCyIsYc",
   domain: ""
 };
